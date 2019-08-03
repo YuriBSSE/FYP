@@ -1,0 +1,16 @@
+.login-form{
+
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+  height: 100%;
+  /* border-color: #F0FFFF; */
+  border: 1px solid gray;
+  border-radius: 2%;
+  background-color: 	 #f0f5f5;
+}
+
+.container{
+    margin-top: 5%;
+}

@@ -1,0 +1,15 @@
+.upload-form{
+
+  width: 100%;
+  max-width: 330px;
+  padding: 1px;
+
+  height: 100%;
+  border-style: outset;
+  border-radius: 2%;
+  background-color: #F0F8FF;
+}
+
+.container{
+    margin-top: 3%;
+}
